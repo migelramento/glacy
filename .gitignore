@@ -1,0 +1,10 @@
+.vscode
+.maket
+*.ai
+*.log
+*.pdf
+*.psd
+node_modules/
+npm-debug.*
+Thumbs.db
+css/normalize.css
